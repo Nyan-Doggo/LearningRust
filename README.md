@@ -15,4 +15,10 @@ these projects are coding and math challenges, usefull for thinking about proble
 are not really about solving the problem itself as much as it is about understanding how to implement
 the solution.
 
-i think i did the first three pretty well. you can find all the challenges in [the project euler archive](https://projecteuler.net/archives)
+i think i did the first seven pretty well. you can find all the challenges in [the project euler archive](https://projecteuler.net/archives)
+
+## Rocket
+
+Rocket is a web-framework for rust, kinda like flask for python
+ig. the first Rocket project is really just the "hello world"
+setup. more info on what rocket does can be found [here](https://rocket.rs/)
